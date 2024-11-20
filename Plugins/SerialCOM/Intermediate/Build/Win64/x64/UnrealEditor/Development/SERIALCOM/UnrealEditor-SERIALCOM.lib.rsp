@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-SERIALCOM.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\111-UNREAL\SerialCom_54\Intermediate\Build\Win64\x64\SerialCom_54Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.obj"
+"E:\111-UNREAL\SerialCom_54\Plugins\SerialCOM\Intermediate\Build\Win64\x64\UnrealEditor\Development\SERIALCOM\Module.SERIALCOM.cpp.obj"
+"E:\111-UNREAL\SerialCom_54\Plugins\SerialCOM\Intermediate\Build\Win64\x64\UnrealEditor\Development\SERIALCOM\SerialCom.cpp.obj"
+"E:\111-UNREAL\SerialCom_54\Plugins\SerialCOM\Intermediate\Build\Win64\x64\UnrealEditor\Development\SERIALCOM\SERIALCOMModule.cpp.obj"
+"E:\111-UNREAL\SerialCom_54\Plugins\SerialCOM\Intermediate\Build\Win64\x64\UnrealEditor\Development\SERIALCOM\Default.rc2.res"
+/OUT:"E:\111-UNREAL\SerialCom_54\Plugins\SerialCOM\Intermediate\Build\Win64\x64\UnrealEditor\Development\SERIALCOM\UnrealEditor-SERIALCOM.lib"
